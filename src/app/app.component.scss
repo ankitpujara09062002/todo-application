@@ -1,0 +1,101 @@
+.shadow {
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.left-sid-wrapper {
+    display: block;
+    height: 100vh;
+    border: 1px solid #bfbbbb;
+}
+
+.right-sid-wrapper {
+    display: block;
+    height: 100vh;
+    border: 1px solid #bfbbbb;
+}
+
+.add-task-wrapper-btn {
+    width: 100%;
+}
+
+.modal-wrapper {
+    margin: 0px;
+    width: 100%;
+}
+
+.dropdown-wrapper {
+    width: 100%;
+    height: 35px;
+}
+
+.tag-wrapper {
+    color: white;
+    background: green;
+    border-radius: 15px;
+}
+
+.search-input-wrapper {
+    border: 0px;
+    width: 100%;
+    outline: none;
+}
+
+.team-rounded-circle {
+    height: 15px;
+    width: 16px;
+    background-color: #0000ff;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.low-rounded-circle {
+    height: 15px;
+    width: 16px;
+    background-color: #008000;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.medium-rounded-circle {
+    height: 15px;
+    width: 16px;
+    background-color: #ffa500;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.highrounded-circle {
+    height: 15px;
+    width: 16px;
+    background-color: #ff0000;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.update-rounded-circle {
+    height: 15px;
+    width: 16px;
+    background-color: #00ffff;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.team-wrapper {
+    background: #0000ff;
+}
+
+.low-wrapper {
+    background: #008000;
+}
+
+.medium-wrapper {
+    background: #ffa500;
+}
+
+.high-wrapper {
+    background: #ff0000;
+}
+
+.update-wrapper {
+    background: #00ffff;
+}
